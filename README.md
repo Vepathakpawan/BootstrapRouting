@@ -1,6 +1,7 @@
-![screenshot-localhost-50057-home-1617007495738](https://user-images.githubusercontent.com/80150887/112811030-7e7ec800-9030-11eb-9eeb-be5ec9d1e746.png)
-![screenshot-localhost-50057-Info-1617007506500](https://user-images.githubusercontent.com/80150887/112811043-80e12200-9030-11eb-9e4e-cce8bf0ae28f.png)
-![screenshot-localhost-50057-User-1617007511670](https://user-images.githubusercontent.com/80150887/112811129-99e9d300-9030-11eb-944f-fee58e1bb744.png)
+![screenshot-localhost-50057-home-1617007495738](https://user-images.githubusercontent.com/80150887/112811854-5479d580-9031-11eb-9d6d-020c0be4dc62.png)
+![screenshot-localhost-50057-Info-1617007506500](https://user-images.githubusercontent.com/80150887/112811882-5a6fb680-9031-11eb-89cd-8be0b8e37a21.png)
+![screenshot-localhost-50057-User-1617007511670](https://user-images.githubusercontent.com/80150887/112811897-5e9bd400-9031-11eb-88c8-cc35f79d1510.png)
+
 
 # Bootstraprouting
 
